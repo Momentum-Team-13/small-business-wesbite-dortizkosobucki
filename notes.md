@@ -1,0 +1,4 @@
+- [] make new files for (index.html, in-stock.html, index.html)
+-- []Homepage
+    - name of business, level 1 
+    - store interior
